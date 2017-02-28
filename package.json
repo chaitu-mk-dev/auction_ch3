@@ -1,0 +1,33 @@
+{
+  "name": "auction",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "live-server"
+  },
+  "engines": {
+      "npm": ">=2.14.x"
+  },
+  "dependencies": {
+      "@angular/common": "2.4.6",
+      "@angular/compiler": "2.4.6",
+      "@angular/core": "2.4.6",
+      "@angular/forms": "2.4.6",
+      "@angular/http": "2.4.6",
+      "@angular/platform-browser": "2.4.6",
+      "@angular/platform-browser-dynamic": "2.4.6",
+      "@angular/router": "^3.0.0",
+  
+      "core-js": "^2.4.0",
+      "rxjs": "5.0.1",
+      "systemjs": "0.19.37",
+      "zone.js": "0.7.2",
+      
+      "bootstrap": "^3.3.6",
+      "jquery": "^2.2.2"
+    },
+    "devDependencies": {
+      "live-server": "1.0.0",
+      "typescript": "^2.0.3"
+  }
+}
